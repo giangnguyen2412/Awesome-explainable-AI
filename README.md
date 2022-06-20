@@ -128,6 +128,8 @@ We mainly follow the taxonomy in the [survey paper](http://arxiv.org/abs/1802.01
 
 [The Utility of Explainable AI in Ad Hoc Human-Machine Teaming](https://proceedings.neurips.cc/paper/2021/file/05d74c48b5b30514d8e9bd60320fc8f6-Paper.pdf), NeurIPS 2021
 
+[The effectiveness of feature attribution methods and its correlation with automatic evaluation scores](https://proceedings.neurips.cc/paper/2021/file/de043a5e421240eb846da8effe472ff1-Paper.pdf), NeurIPS 2021
+
 [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://proceedings.neurips.cc/paper/2020/file/ecb287ff763c169694f682af52c1f309-Paper.pdf), NeurIPS 2020
 
 [Local Explanation of Dialogue Response Generation](https://arxiv.org/abs/2106.06528), NeurIPS 2021
